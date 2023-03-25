@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754961059531",
+    "project_id": "american-pizza-clock",
+    "storage_bucket": "american-pizza-clock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754961059531:android:51cabb45dd3ac23ec1d54e",
+        "android_client_info": {
+          "package_name": "com.example.american_pizza_clock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754961059531-nufkconlu2ql87ukaaqnm51anda5bt77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOJRfPPOyCZ6DGgFicpunza4OQXXoQ2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754961059531-nufkconlu2ql87ukaaqnm51anda5bt77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
