@@ -56,10 +56,10 @@ bool isUserexist(String check) {
     s = event.snapshot.value.toString();
   });
   if (s == "" || s == "null") {
-    print('false');
+    //print('false');
     return false;
   } else {
-    print('true');
+    //print('true');
     return true;
   }
 }

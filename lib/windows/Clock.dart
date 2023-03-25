@@ -44,8 +44,8 @@ class _Clock extends State<Clock> {
       //user.hours = int.parse(stringtointhours);
       stringtointclocked = getdata(user.id, 'clocked');
       //user.clocked = int.parse(stringtointclocked);
-      print(user.checked.toString());
-      print("${user.clocked} , ${user.hours} , ${user.checked}");
+      //print(user.checked.toString());
+      //print("${user.clocked.toString()} , ${user.hours} , ${user.checked.toString()}");
     } else {
       user.id = saveUser(user);
     }
